@@ -15,10 +15,12 @@ oewn:oewn-00047249-a wn:hypernym oewn:oewn-01588067-s .
 oewn:oewn-00049078-s wn:hypernym oewn:oewn-00101873-r .
 oewn:oewn-02915381-a wn:hypernym oewn:oewn-02909528-a .
 oewn:oewn-02915381-a wn:hypernym oewn:oewn-01819996-s .
+oewn:oewn-01846036-s wn:hypernym oewn:tmp-hyper-14 .
 oewn:oewn-01000455-s wn:hypernym oewn:oewn-01823738-a .
 oewn:oewn-03002795-a wn:hypernym oewn:oewn-02869320-a .
 oewn:oewn-00078253-a wn:hypernym oewn:oewn-00545823-a .
 oewn:oewn-00078253-a wn:hypernym oewn:oewn-00252675-a .
+oewn:oewn-00469231-s wn:hypernym oewn:tmp-hyper-19 .
 oewn:oewn-00469231-s wn:hypernym oewn:oewn-02119981-s .
 oewn:oewn-00469231-s wn:hypernym oewn:oewn-02487032-s .
 oewn:oewn-00032846-s wn:hypernym oewn:oewn-00979699-a .
@@ -32,7 +34,9 @@ oewn:oewn-00095301-a wn:hypernym oewn:oewn-02766901-a .
 oewn:oewn-00095301-a wn:hypernym oewn:oewn-02676508-a .
 oewn:oewn-00095301-a wn:hypernym oewn:oewn-01736035-s .
 oewn:oewn-00690891-s wn:hypernym oewn:oewn-00691229-s .
+oewn:oewn-00690891-s wn:hypernym oewn:tmp-hyper-33 .
 oewn:oewn-00690891-s wn:hypernym oewn:oewn-00473338-a .
+oewn:oewn-00690891-s wn:hypernym oewn:tmp-hyper-35 .
 oewn:oewn-02623356-a wn:hypernym oewn:oewn-02775023-a .
 oewn:oewn-02623356-a wn:hypernym oewn:oewn-08382998-n .
 oewn:oewn-02257510-s wn:hypernym oewn:oewn-00548375-s .
@@ -79,6 +83,7 @@ oewn:oewn-03002630-a wn:hypernym oewn:oewn-00646885-s .
 oewn:oewn-03002630-a wn:hypernym oewn:oewn-85983944-a .
 oewn:oewn-00155165-a wn:hypernym oewn:oewn-00533833-s .
 oewn:oewn-00155165-a wn:hypernym oewn:oewn-01323940-a .
+oewn:oewn-00189224-a wn:hypernym oewn:tmp-hyper-82 .
 oewn:oewn-00796805-s wn:hypernym oewn:oewn-01859389-a .
 oewn:oewn-00796805-s wn:hypernym oewn:oewn-00729216-a .
 oewn:oewn-00796805-s wn:hypernym oewn:oewn-01860057-s .
@@ -88,6 +93,7 @@ oewn:oewn-02895923-a wn:hypernym oewn:oewn-02703361-a .
 oewn:oewn-02895923-a wn:hypernym oewn:oewn-01782757-a .
 oewn:oewn-02341872-s wn:hypernym oewn:oewn-01872762-s .
 oewn:oewn-00182776-a wn:hypernym oewn:oewn-00732883-s .
+oewn:oewn-00182776-a wn:hypernym oewn:tmp-hyper-92 .
 oewn:oewn-00184353-a wn:hypernym oewn:oewn-00185663-s .
 oewn:oewn-01598728-s wn:hypernym oewn:oewn-02303673-a .
 oewn:oewn-01591485-a wn:hypernym oewn:oewn-01134543-a .
@@ -130,6 +136,7 @@ oewn:oewn-02449895-a wn:hypernym oewn:oewn-02348283-a .
 oewn:oewn-01445717-s wn:hypernym oewn:oewn-01760139-a .
 oewn:oewn-02350714-s wn:hypernym oewn:oewn-09356077-n .
 oewn:oewn-02571278-a wn:hypernym oewn:oewn-01389817-s .
+oewn:oewn-00289948-a wn:hypernym oewn:tmp-hyper-135 .
 oewn:oewn-00289948-a wn:hypernym oewn:oewn-01757421-s .
 oewn:oewn-10885972-n wn:hypernym oewn:oewn-03033691-a .
 oewn:oewn-10885972-n wn:hypernym oewn:oewn-02804097-a .
@@ -220,6 +227,7 @@ oewn:oewn-00600632-s wn:hypernym oewn:oewn-01759375-s .
 oewn:oewn-00597095-a wn:hypernym oewn:oewn-00595708-s .
 oewn:oewn-02073362-s wn:hypernym oewn:oewn-00580585-s .
 oewn:oewn-00604427-a wn:hypernym oewn:oewn-01923165-s .
+oewn:oewn-00604427-a wn:hypernym oewn:tmp-hyper-226 .
 oewn:oewn-00604427-a wn:hypernym oewn:oewn-01923165-s .
 oewn:oewn-00604427-a wn:hypernym oewn:oewn-01922610-a .
 oewn:oewn-00604427-a wn:hypernym oewn:oewn-00606448-s .
@@ -274,6 +282,8 @@ oewn:oewn-03071371-a wn:hypernym oewn:oewn-02760550-a .
 oewn:oewn-03071371-a wn:hypernym oewn:oewn-02915381-a .
 oewn:oewn-00729216-a wn:hypernym oewn:oewn-02338056-s .
 oewn:oewn-00729216-a wn:hypernym oewn:oewn-02030681-s .
+oewn:tmp-hypo-281 wn:hypernym oewn:oewn-01107369-s .
+oewn:tmp-hypo-282 wn:hypernym oewn:oewn-02514176-a .
 oewn:oewn-01215539-s wn:hypernym oewn:oewn-01278055-s .
 oewn:oewn-00736491-a wn:hypernym oewn:oewn-02510833-a .
 oewn:oewn-00736491-a wn:hypernym oewn:oewn-01823004-a .
@@ -441,6 +451,7 @@ oewn:oewn-01628191-s wn:hypernym oewn:oewn-01628017-a .
 oewn:oewn-01628191-s wn:hypernym oewn:oewn-01656822-a .
 oewn:oewn-01628191-s wn:hypernym oewn:oewn-01091666-s .
 oewn:oewn-01070231-a wn:hypernym oewn:oewn-00595517-s .
+oewn:tmp-hypo-450 wn:hypernym oewn:oewn-00824544-s .
 oewn:oewn-01078338-a wn:hypernym oewn:oewn-01137732-s .
 oewn:oewn-00080219-s wn:hypernym oewn:oewn-00078253-a .
 oewn:oewn-00199739-a wn:hypernym oewn:oewn-00204829-a .
@@ -448,6 +459,7 @@ oewn:oewn-01524775-s wn:hypernym oewn:oewn-02327443-s .
 oewn:oewn-01086845-a wn:hypernym oewn:oewn-00013906-a .
 oewn:oewn-01086845-a wn:hypernym oewn:oewn-00561916-a .
 oewn:oewn-02308182-s wn:hypernym oewn:oewn-00591490-a .
+oewn:oewn-02308182-s wn:hypernym oewn:tmp-hyper-458 .
 oewn:oewn-01092828-a wn:hypernym oewn:oewn-01966104-a .
 oewn:oewn-01092828-a wn:hypernym oewn:oewn-00597095-a .
 oewn:oewn-00430934-n wn:hypernym oewn:oewn-01805299-a .
@@ -534,6 +546,9 @@ oewn:oewn-00195081-s wn:hypernym oewn:oewn-01806732-a .
 oewn:oewn-01247284-a wn:hypernym oewn:oewn-00082711-a .
 oewn:oewn-01250274-a wn:hypernym oewn:oewn-02539669-a .
 oewn:oewn-01250274-a wn:hypernym oewn:oewn-02825392-a .
+oewn:tmp-hypo-545 wn:hypernym oewn:oewn-01513206-a .
+oewn:tmp-hypo-546 wn:hypernym oewn:oewn-01515272-s .
+oewn:tmp-hypo-547 wn:hypernym oewn:oewn-01730449-s .
 oewn:oewn-02754015-a wn:hypernym oewn:oewn-02766901-a .
 oewn:oewn-02754015-a wn:hypernym oewn:oewn-00118196-a .
 oewn:oewn-02754015-a wn:hypernym oewn:oewn-01562007-a .
@@ -706,6 +721,7 @@ oewn:oewn-02769962-a wn:hypernym oewn:oewn-02880379-a .
 oewn:oewn-00332787-s wn:hypernym oewn:oewn-08529331-n .
 oewn:oewn-00332787-s wn:hypernym oewn:oewn-00952756-a .
 oewn:oewn-00332787-s wn:hypernym oewn:oewn-00951310-a .
+oewn:oewn-00332787-s wn:hypernym oewn:tmp-hyper-720 .
 oewn:oewn-01483493-a wn:hypernym oewn:oewn-01275507-a .
 oewn:oewn-01483493-a wn:hypernym oewn:oewn-01379134-s .
 oewn:oewn-01483493-a wn:hypernym oewn:oewn-00358006-a .
@@ -723,6 +739,7 @@ oewn:oewn-01491608-a wn:hypernym oewn:oewn-01086845-a .
 oewn:oewn-01491608-a wn:hypernym oewn:oewn-00522139-a .
 oewn:oewn-01498873-a wn:hypernym oewn:oewn-02351683-s .
 oewn:oewn-01498873-a wn:hypernym oewn:oewn-01582720-a .
+oewn:oewn-01498873-a wn:hypernym oewn:tmp-hyper-738 .
 oewn:oewn-01500270-a wn:hypernym oewn:oewn-02510833-a .
 oewn:oewn-01503365-a wn:hypernym oewn:oewn-02092125-s .
 oewn:oewn-02770888-a wn:hypernym oewn:oewn-01874674-a .
@@ -752,6 +769,7 @@ oewn:oewn-01526495-a wn:hypernym oewn:oewn-03005956-a .
 oewn:oewn-01539804-a wn:hypernym oewn:oewn-02931434-a .
 oewn:oewn-01543393-a wn:hypernym oewn:oewn-01543612-s .
 oewn:oewn-02786741-a wn:hypernym oewn:oewn-00485135-a .
+oewn:tmp-hypo-768 wn:hypernym oewn:oewn-00195400-s .
 oewn:oewn-00223219-s wn:hypernym oewn:oewn-01600178-a .
 oewn:oewn-00223219-s wn:hypernym oewn:oewn-01630743-s .
 oewn:oewn-00223219-s wn:hypernym oewn:oewn-01574863-a .
@@ -850,6 +868,7 @@ oewn:oewn-02076759-a wn:hypernym oewn:oewn-00679361-s .
 oewn:oewn-01697422-a wn:hypernym oewn:oewn-00952756-a .
 oewn:oewn-02351928-s wn:hypernym oewn:oewn-01683076-s .
 oewn:oewn-01106144-s wn:hypernym oewn:oewn-00527630-a .
+oewn:oewn-01712702-a wn:hypernym oewn:tmp-hyper-867 .
 oewn:oewn-01712702-a wn:hypernym oewn:oewn-02858779-a .
 oewn:oewn-01715524-a wn:hypernym oewn:oewn-01823738-a .
 oewn:oewn-02890942-a wn:hypernym oewn:oewn-02708768-a .
@@ -932,6 +951,7 @@ oewn:oewn-00583156-s wn:hypernym oewn:oewn-01378757-s .
 oewn:oewn-01884565-a wn:hypernym oewn:oewn-02708690-v .
 oewn:oewn-01893175-a wn:hypernym oewn:oewn-01170813-s .
 oewn:oewn-01893175-a wn:hypernym oewn:oewn-02100585-a .
+oewn:oewn-01893175-a wn:hypernym oewn:tmp-hyper-950 .
 oewn:oewn-01895355-a wn:hypernym oewn:oewn-01151786-a .
 oewn:oewn-02796680-a wn:hypernym oewn:oewn-02823421-a .
 oewn:oewn-00558544-s wn:hypernym oewn:oewn-01919794-s .
@@ -979,6 +999,8 @@ oewn:oewn-00251605-s wn:hypernym oewn:oewn-02005010-a .
 oewn:oewn-00251605-s wn:hypernym oewn:oewn-01905427-a .
 oewn:oewn-09428827-n wn:hypernym oewn:oewn-02740548-a .
 oewn:oewn-00884977-a wn:hypernym oewn:oewn-01278055-s .
+oewn:tmp-hypo-998 wn:hypernym oewn:tmp-hyper-998 .
+oewn:tmp-hypo-999 wn:hypernym oewn:oewn-02952096-a .
 oewn:oewn-01982202-a wn:hypernym oewn:oewn-01979885-a .
 oewn:oewn-01982202-a wn:hypernym oewn:oewn-01980375-s .
 oewn:oewn-01787685-a wn:hypernym oewn:oewn-01786023-a .
@@ -988,6 +1010,7 @@ oewn:oewn-02020854-s wn:hypernym oewn:oewn-02443615-s .
 oewn:oewn-01585183-s wn:hypernym oewn:oewn-00907116-s .
 oewn:oewn-00487032-a wn:hypernym oewn:oewn-01041784-a .
 oewn:oewn-00487032-a wn:hypernym oewn:oewn-01864034-a .
+oewn:oewn-00487032-a wn:hypernym oewn:tmp-hyper-1009 .
 oewn:oewn-02000222-a wn:hypernym oewn:oewn-01236903-s .
 oewn:oewn-02000222-a wn:hypernym oewn:oewn-02734299-a .
 oewn:oewn-02003477-a wn:hypernym oewn:oewn-00727525-a .
@@ -997,6 +1020,7 @@ oewn:oewn-02009323-a wn:hypernym oewn:oewn-00074369-s .
 oewn:oewn-02009323-a wn:hypernym oewn:oewn-02445887-v .
 oewn:oewn-02009323-a wn:hypernym oewn:oewn-01969136-a .
 oewn:oewn-02010821-a wn:hypernym oewn:oewn-02445887-v .
+oewn:oewn-01116568-n wn:hypernym oewn:tmp-hyper-1019 .
 oewn:oewn-01116568-n wn:hypernym oewn:oewn-03006990-a .
 oewn:oewn-00354202-s wn:hypernym oewn:oewn-01291519-a .
 oewn:oewn-00354202-s wn:hypernym oewn:oewn-00884007-s .
@@ -1039,6 +1063,9 @@ oewn:oewn-02110761-a wn:hypernym oewn:oewn-02879608-a .
 oewn:oewn-02116958-a wn:hypernym oewn:oewn-00731008-a .
 oewn:oewn-00694973-a wn:hypernym oewn:oewn-01879374-a .
 oewn:oewn-00694973-a wn:hypernym oewn:oewn-00913184-s .
+oewn:tmp-hypo-1062 wn:hypernym oewn:oewn-00753900-s .
+oewn:tmp-hypo-1063 wn:hypernym oewn:oewn-01879374-a .
+oewn:tmp-hypo-1064 wn:hypernym oewn:oewn-06915685-n .
 oewn:oewn-02159631-a wn:hypernym oewn:oewn-02119981-s .
 oewn:oewn-02159631-a wn:hypernym oewn:oewn-02159888-s .
 oewn:oewn-00806609-a wn:hypernym oewn:oewn-01513206-a .
@@ -1137,6 +1164,7 @@ oewn:oewn-02536283-s wn:hypernym oewn:oewn-02372182-s .
 oewn:oewn-02908587-a wn:hypernym oewn:oewn-01429146-s .
 oewn:oewn-02908587-a wn:hypernym oewn:oewn-02909528-a .
 oewn:oewn-02334687-a wn:hypernym oewn:oewn-01997455-s .
+oewn:oewn-00269854-v wn:hypernym oewn:tmp-hyper-1163 .
 oewn:oewn-00269854-v wn:hypernym oewn:oewn-01690037-a .
 oewn:oewn-02370095-s wn:hypernym oewn:oewn-02445545-a .
 oewn:oewn-01620077-a wn:hypernym oewn:oewn-00495505-a .
@@ -1153,6 +1181,7 @@ oewn:oewn-02349970-s wn:hypernym oewn:oewn-01389817-s .
 oewn:oewn-02349970-s wn:hypernym oewn:oewn-01016587-s .
 oewn:oewn-02350714-s wn:hypernym oewn:oewn-02088253-s .
 oewn:oewn-02350714-s wn:hypernym oewn:oewn-09356077-n .
+oewn:oewn-02349336-a wn:hypernym oewn:tmp-hyper-1180 .
 oewn:oewn-01860057-s wn:hypernym oewn:oewn-02364800-s .
 oewn:oewn-01860057-s wn:hypernym oewn:oewn-00049078-s .
 oewn:oewn-01860057-s wn:hypernym oewn:oewn-01859389-a .
@@ -1227,6 +1256,7 @@ oewn:oewn-02477858-a wn:hypernym oewn:oewn-02478647-s .
 oewn:oewn-00222548-a wn:hypernym oewn:oewn-00170426-a .
 oewn:oewn-01582720-a wn:hypernym oewn:oewn-01013868-s .
 oewn:oewn-01582720-a wn:hypernym oewn:oewn-01583875-s .
+oewn:oewn-01582720-a wn:hypernym oewn:tmp-hyper-1255 .
 oewn:oewn-00002098-a wn:hypernym oewn:oewn-00514186-a .
 oewn:oewn-00002098-a wn:hypernym oewn:oewn-00052252-s .
 oewn:oewn-00002098-a wn:hypernym oewn:oewn-01004599-s .
@@ -1362,12 +1392,15 @@ oewn:oewn-00579031-a wn:hypernym oewn:oewn-02309241-a .
 oewn:oewn-01030336-a wn:hypernym oewn:oewn-01529778-s .
 oewn:oewn-01266123-s wn:hypernym oewn:oewn-01376655-a .
 oewn:oewn-02066198-a wn:hypernym oewn:oewn-02102035-a .
+oewn:oewn-01847459-a wn:hypernym oewn:tmp-hyper-1391 .
 oewn:oewn-01272183-a wn:hypernym oewn:oewn-03009037-a .
 oewn:oewn-00339715-a wn:hypernym oewn:oewn-00340055-s .
 oewn:oewn-01455372-a wn:hypernym oewn:oewn-00175025-a .
 oewn:oewn-01853600-a wn:hypernym oewn:oewn-01853792-s .
 oewn:oewn-00577581-a wn:hypernym oewn:oewn-02163186-a .
 oewn:oewn-02851363-a wn:hypernym oewn:oewn-00584283-n .
+oewn:oewn-02905843-a wn:hypernym oewn:tmp-hyper-1398 .
+oewn:oewn-01022875-s wn:hypernym oewn:tmp-hyper-1399 .
 oewn:oewn-00143675-a wn:hypernym oewn:oewn-01521715-s .
 oewn:oewn-00903909-a wn:hypernym oewn:oewn-08325852-n .
 oewn:oewn-01556776-s wn:hypernym oewn:oewn-00302805-s .
@@ -1404,7 +1437,11 @@ oewn:oewn-02962048-a wn:hypernym oewn:oewn-02775023-a .
 oewn:oewn-02516600-a wn:hypernym oewn:oewn-01202626-s .
 oewn:oewn-02545349-a wn:hypernym oewn:oewn-07385010-n .
 oewn:oewn-00850001-a wn:hypernym oewn:oewn-00850164-s .
+oewn:oewn-02064630-s wn:hypernym oewn:tmp-hyper-1436 .
+oewn:oewn-01522004-a wn:hypernym oewn:tmp-hyper-1437 .
+oewn:oewn-02064630-s wn:hypernym oewn:tmp-hyper-1438 .
 oewn:oewn-01522004-a wn:hypernym oewn:oewn-01522378-s .
+oewn:oewn-01236220-a wn:hypernym oewn:tmp-hyper-1440 .
 oewn:oewn-00576723-a wn:hypernym oewn:oewn-02964966-a .
 oewn:oewn-02458503-a wn:hypernym oewn:oewn-01171978-s .
 oewn:oewn-00343913-a wn:hypernym oewn:oewn-00341915-s .
@@ -1420,16 +1457,19 @@ oewn:oewn-02411930-a wn:hypernym oewn:oewn-02412229-s .
 oewn:oewn-02539669-a wn:hypernym oewn:oewn-02825392-a .
 oewn:oewn-00989218-a wn:hypernym oewn:oewn-02419189-a .
 oewn:oewn-00201161-a wn:hypernym oewn:oewn-00321110-n .
+oewn:oewn-02951256-a wn:hypernym oewn:tmp-hyper-1456 .
 oewn:oewn-00191603-a wn:hypernym oewn:oewn-01750195-s .
 oewn:oewn-00821744-s wn:hypernym oewn:oewn-00746008-a .
 oewn:oewn-02072149-a wn:hypernym oewn:oewn-01413335-a .
 oewn:oewn-00517795-s wn:hypernym oewn:oewn-00247880-a .
 oewn:oewn-02290110-a wn:hypernym oewn:oewn-01803206-s .
+oewn:oewn-01714713-s wn:hypernym oewn:tmp-hyper-1462 .
 oewn:oewn-01348155-s wn:hypernym oewn:oewn-02315047-a .
 oewn:oewn-01485535-a wn:hypernym oewn:oewn-01486058-s .
 oewn:oewn-02411930-a wn:hypernym oewn:oewn-02415166-s .
 oewn:oewn-00653599-a wn:hypernym oewn:oewn-00717023-s .
 oewn:oewn-00970318-a wn:hypernym oewn:oewn-09609617-n .
+oewn:oewn-01395201-s wn:hypernym oewn:tmp-hyper-1468 .
 oewn:oewn-00001740-a wn:hypernym oewn:oewn-01917434-a .
 oewn:oewn-00001740-a wn:hypernym oewn:oewn-00511975-a .
 oewn:oewn-01600178-a wn:hypernym oewn:oewn-00492026-a .
@@ -1448,6 +1488,7 @@ oewn:oewn-00021803-a wn:hypernym oewn:oewn-00634232-a .
 oewn:oewn-00021803-a wn:hypernym oewn:oewn-00727525-a .
 oewn:oewn-09781434-n wn:hypernym oewn:oewn-02043172-s .
 oewn:oewn-00037570-a wn:hypernym oewn:oewn-01513206-a .
+oewn:oewn-00037570-a wn:hypernym oewn:tmp-hyper-1487 .
 oewn:oewn-00037570-a wn:hypernym oewn:oewn-02545349-a .
 oewn:oewn-00037570-a wn:hypernym oewn:oewn-01882105-a .
 oewn:oewn-00037570-a wn:hypernym oewn:oewn-00234743-a .
@@ -1530,6 +1571,7 @@ oewn:oewn-01982512-s wn:hypernym oewn:oewn-01024501-s .
 oewn:oewn-00866236-a wn:hypernym oewn:oewn-00862104-a .
 oewn:oewn-00866236-a wn:hypernym oewn:oewn-01840022-a .
 oewn:oewn-00850001-a wn:hypernym oewn:oewn-02130856-a .
+oewn:oewn-00850001-a wn:hypernym oewn:tmp-hyper-1570 .
 oewn:oewn-00135772-a wn:hypernym oewn:oewn-02708690-v .
 oewn:oewn-00180335-s wn:hypernym oewn:oewn-00179875-a .
 oewn:oewn-00180335-s wn:hypernym oewn:oewn-00343148-a .
@@ -1549,6 +1591,7 @@ oewn:oewn-00151470-a wn:hypernym oewn:oewn-00429900-a .
 oewn:oewn-00151470-a wn:hypernym oewn:oewn-00151773-s .
 oewn:oewn-00151470-a wn:hypernym oewn:oewn-02967917-a .
 oewn:oewn-01575756-a wn:hypernym oewn:oewn-01942527-s .
+oewn:oewn-01575756-a wn:hypernym oewn:tmp-hyper-1590 .
 oewn:oewn-03002630-a wn:hypernym oewn:oewn-02910174-a .
 oewn:oewn-03002630-a wn:hypernym oewn:oewn-00646272-a .
 oewn:oewn-00155165-a wn:hypernym oewn:oewn-01899370-s .
@@ -1561,6 +1604,7 @@ oewn:oewn-02368344-s wn:hypernym oewn:oewn-01683076-s .
 oewn:oewn-02368344-s wn:hypernym oewn:oewn-01285124-a .
 oewn:oewn-02895923-a wn:hypernym oewn:oewn-02911952-a .
 oewn:oewn-02341872-s wn:hypernym oewn:oewn-02341445-a .
+oewn:oewn-02341872-s wn:hypernym oewn:tmp-hyper-1603 .
 oewn:oewn-00167408-a wn:hypernym oewn:oewn-00219320-a .
 oewn:oewn-00167408-a wn:hypernym oewn:oewn-01812521-a .
 oewn:oewn-00167408-a wn:hypernym oewn:oewn-01813064-s .
@@ -1600,6 +1644,7 @@ oewn:oewn-02162939-a wn:hypernym oewn:oewn-01892506-a .
 oewn:oewn-02162939-a wn:hypernym oewn:oewn-00461363-s .
 oewn:oewn-02162939-a wn:hypernym oewn:oewn-01892719-s .
 oewn:oewn-01861659-a wn:hypernym oewn:oewn-01858102-a .
+oewn:oewn-01861659-a wn:hypernym oewn:tmp-hyper-1643 .
 oewn:oewn-01861659-a wn:hypernym oewn:oewn-01584714-s .
 oewn:oewn-01861659-a wn:hypernym oewn:oewn-01280207-s .
 oewn:oewn-00219320-a wn:hypernym oewn:oewn-00167408-a .
@@ -1720,6 +1765,7 @@ oewn:oewn-00429900-a wn:hypernym oewn:oewn-01622205-a .
 oewn:oewn-02896833-a wn:hypernym oewn:oewn-02770888-a .
 oewn:oewn-00453543-a wn:hypernym oewn:oewn-01979885-a .
 oewn:oewn-00453543-a wn:hypernym oewn:oewn-01980375-s .
+oewn:oewn-00453543-a wn:hypernym oewn:tmp-hyper-1764 .
 oewn:oewn-00448955-a wn:hypernym oewn:oewn-00449506-s .
 oewn:oewn-00448955-a wn:hypernym oewn:oewn-01584016-a .
 oewn:oewn-01657980-a wn:hypernym oewn:oewn-02094487-a .
@@ -1735,6 +1781,7 @@ oewn:oewn-00403480-a wn:hypernym oewn:oewn-00279417-a .
 oewn:oewn-00403480-a wn:hypernym oewn:oewn-02516600-a .
 oewn:oewn-00403480-a wn:hypernym oewn:oewn-01947643-s .
 oewn:oewn-00395623-a wn:hypernym oewn:oewn-01717826-a .
+oewn:oewn-00395623-a wn:hypernym oewn:tmp-hyper-1780 .
 oewn:oewn-00407944-a wn:hypernym oewn:oewn-02516600-a .
 oewn:oewn-00478809-a wn:hypernym oewn:oewn-00479886-s .
 oewn:oewn-00478809-a wn:hypernym oewn:oewn-01805299-a .
@@ -1837,6 +1884,7 @@ oewn:oewn-00634232-a wn:hypernym oewn:oewn-00021803-a .
 oewn:oewn-00634232-a wn:hypernym oewn:oewn-01884565-a .
 oewn:oewn-00634232-a wn:hypernym oewn:oewn-02508521-a .
 oewn:oewn-01981515-s wn:hypernym oewn:oewn-01979885-a .
+oewn:oewn-01981515-s wn:hypernym oewn:tmp-hyper-1883 .
 oewn:oewn-01981515-s wn:hypernym oewn:oewn-01980375-s .
 oewn:oewn-00937210-s wn:hypernym oewn:oewn-01192652-s .
 oewn:oewn-00937210-s wn:hypernym oewn:oewn-01192652-s .
@@ -1910,6 +1958,7 @@ oewn:oewn-02721266-a wn:hypernym oewn:oewn-00734175-a .
 oewn:oewn-02425186-s wn:hypernym oewn:oewn-00434829-a .
 oewn:oewn-03071371-a wn:hypernym oewn:oewn-02909528-a .
 oewn:oewn-00729216-a wn:hypernym oewn:oewn-00730557-s .
+oewn:tmp-hypo-1957 wn:hypernym oewn:oewn-01919794-s .
 oewn:oewn-01215539-s wn:hypernym oewn:oewn-86659382-a .
 oewn:oewn-01215539-s wn:hypernym oewn:oewn-00884977-a .
 oewn:oewn-00736491-a wn:hypernym oewn:oewn-00999158-a .
@@ -1920,6 +1969,7 @@ oewn:oewn-02537379-s wn:hypernym oewn:oewn-01830440-v .
 oewn:oewn-00311231-s wn:hypernym oewn:oewn-00309819-a .
 oewn:oewn-00311231-s wn:hypernym oewn:oewn-00312303-s .
 oewn:oewn-00745450-a wn:hypernym oewn:oewn-01953883-a .
+oewn:oewn-00745450-a wn:hypernym oewn:tmp-hyper-1968 .
 oewn:oewn-00745450-a wn:hypernym oewn:oewn-01291519-a .
 oewn:oewn-00745450-a wn:hypernym oewn:oewn-01846036-s .
 oewn:oewn-00745450-a wn:hypernym oewn:oewn-01492448-s .
@@ -1961,6 +2011,7 @@ oewn:oewn-00782933-a wn:hypernym oewn:oewn-00429900-a .
 oewn:oewn-00782933-a wn:hypernym oewn:oewn-01622528-s .
 oewn:oewn-00782933-a wn:hypernym oewn:oewn-01622205-a .
 oewn:oewn-00782933-a wn:hypernym oewn:oewn-02525399-a .
+oewn:oewn-00358636-s wn:hypernym oewn:tmp-hyper-2010 .
 oewn:oewn-00358636-s wn:hypernym oewn:oewn-00358006-a .
 oewn:oewn-00358636-s wn:hypernym oewn:oewn-01107719-s .
 oewn:oewn-02075123-s wn:hypernym oewn:oewn-01202626-s .
@@ -2074,6 +2125,9 @@ oewn:oewn-02734299-a wn:hypernym oewn:oewn-02869320-a .
 oewn:oewn-02256437-s wn:hypernym oewn:oewn-02999528-a .
 oewn:oewn-02256437-s wn:hypernym oewn:oewn-02883162-a .
 oewn:oewn-02256437-s wn:hypernym oewn:oewn-00613438-a .
+oewn:tmp-hypo-2124 wn:hypernym oewn:oewn-00913184-s .
+oewn:tmp-hypo-2125 wn:hypernym oewn:oewn-01973553-a .
+oewn:tmp-hypo-2126 wn:hypernym oewn:oewn-00579031-a .
 oewn:oewn-01583264-s wn:hypernym oewn:oewn-01736519-a .
 oewn:oewn-01678797-s wn:hypernym oewn:oewn-01677162-a .
 oewn:oewn-01678797-s wn:hypernym oewn:oewn-00491099-a .
@@ -2166,6 +2220,7 @@ oewn:oewn-00999158-a wn:hypernym oewn:oewn-00065107-s .
 oewn:oewn-00999158-a wn:hypernym oewn:oewn-01823004-a .
 oewn:oewn-00999158-a wn:hypernym oewn:oewn-01126910-a .
 oewn:oewn-01821720-s wn:hypernym oewn:oewn-01821123-a .
+oewn:oewn-01821720-s wn:hypernym oewn:tmp-hyper-2219 .
 oewn:oewn-01828067-s wn:hypernym oewn:oewn-01826770-a .
 oewn:oewn-01828067-s wn:hypernym oewn:oewn-01827194-s .
 oewn:oewn-01828067-s wn:hypernym oewn:oewn-01840022-a .
@@ -2175,6 +2230,7 @@ oewn:oewn-09927483-n wn:hypernym oewn:oewn-08987826-n .
 oewn:oewn-09927483-n wn:hypernym oewn:oewn-02754015-a .
 oewn:oewn-01481113-a wn:hypernym oewn:oewn-02676508-a .
 oewn:oewn-01481113-a wn:hypernym oewn:oewn-02898882-a .
+oewn:oewn-01487390-a wn:hypernym oewn:tmp-hyper-2229 .
 oewn:oewn-02521586-s wn:hypernym oewn:oewn-00082711-a .
 oewn:oewn-02521586-s wn:hypernym oewn:oewn-01513206-a .
 oewn:oewn-01013868-s wn:hypernym oewn:oewn-01582720-a .
@@ -2235,6 +2291,8 @@ oewn:oewn-01065188-a wn:hypernym oewn:oewn-00255162-s .
 oewn:oewn-01628191-s wn:hypernym oewn:oewn-00184353-a .
 oewn:oewn-01070231-a wn:hypernym oewn:oewn-01966104-a .
 oewn:oewn-01070231-a wn:hypernym oewn:oewn-00494722-a .
+oewn:tmp-hypo-2290 wn:hypernym oewn:oewn-00669281-a .
+oewn:tmp-hypo-2291 wn:hypernym oewn:oewn-15149665-n .
 oewn:oewn-00206887-s wn:hypernym oewn:oewn-00204829-a .
 oewn:oewn-00206887-s wn:hypernym oewn:oewn-00156411-s .
 oewn:oewn-00206887-s wn:hypernym oewn:oewn-00250985-s .
@@ -2349,6 +2407,7 @@ oewn:oewn-02238735-a wn:hypernym oewn:oewn-00914441-a .
 oewn:oewn-05546258-n wn:hypernym oewn:oewn-02677980-a .
 oewn:oewn-01833664-s wn:hypernym oewn:oewn-02332106-a .
 oewn:oewn-01833664-s wn:hypernym oewn:oewn-01833253-a .
+oewn:oewn-02527874-s wn:hypernym oewn:tmp-hyper-2406 .
 oewn:oewn-02527874-s wn:hypernym oewn:oewn-02527322-a .
 oewn:oewn-01213526-a wn:hypernym oewn:oewn-00013906-a .
 oewn:oewn-01213526-a wn:hypernym oewn:oewn-01385012-a .
@@ -2364,6 +2423,7 @@ oewn:oewn-02931434-a wn:hypernym oewn:oewn-02910174-a .
 oewn:oewn-02061222-a wn:hypernym oewn:oewn-09559474-n .
 oewn:oewn-02061222-a wn:hypernym oewn:oewn-02063669-s .
 oewn:oewn-01204965-a wn:hypernym oewn:oewn-02898882-a .
+oewn:oewn-01204965-a wn:hypernym oewn:tmp-hyper-2422 .
 oewn:oewn-01225031-a wn:hypernym oewn:oewn-02186899-a .
 oewn:oewn-01225031-a wn:hypernym oewn:oewn-02473921-a .
 oewn:oewn-01225031-a wn:hypernym oewn:oewn-01119091-a .
@@ -2379,6 +2439,7 @@ oewn:oewn-00195081-s wn:hypernym oewn:oewn-00195400-s .
 oewn:oewn-01247284-a wn:hypernym oewn:oewn-01000455-s .
 oewn:oewn-01247284-a wn:hypernym oewn:oewn-01249262-s .
 oewn:oewn-01247284-a wn:hypernym oewn:oewn-01824184-s .
+oewn:tmp-hypo-2438 wn:hypernym oewn:oewn-02539669-a .
 oewn:oewn-02754015-a wn:hypernym oewn:oewn-01683714-a .
 oewn:oewn-02754015-a wn:hypernym oewn:oewn-02676508-a .
 oewn:oewn-01899020-a wn:hypernym oewn:oewn-01543612-s .
@@ -2434,6 +2495,7 @@ oewn:oewn-00883449-a wn:hypernym oewn:oewn-01386690-s .
 oewn:oewn-00883449-a wn:hypernym oewn:oewn-01398335-a .
 oewn:oewn-02545349-a wn:hypernym oewn:oewn-02496610-a .
 oewn:oewn-02545349-a wn:hypernym oewn:oewn-03082307-a .
+oewn:oewn-02545349-a wn:hypernym oewn:tmp-hyper-2494 .
 oewn:oewn-00648515-a wn:hypernym oewn:oewn-01683076-s .
 oewn:oewn-00731008-a wn:hypernym oewn:oewn-01067442-s .
 oewn:oewn-00731008-a wn:hypernym oewn:oewn-01065188-a .
@@ -2464,6 +2526,7 @@ oewn:oewn-00953480-a wn:hypernym oewn:oewn-01280207-s .
 oewn:oewn-01322826-a wn:hypernym oewn:oewn-01126910-a .
 oewn:oewn-01322826-a wn:hypernym oewn:oewn-01911832-a .
 oewn:oewn-01322826-a wn:hypernym oewn:oewn-02523327-a .
+oewn:oewn-01882360-s wn:hypernym oewn:tmp-hyper-2525 .
 oewn:oewn-01882360-s wn:hypernym oewn:oewn-01882105-a .
 oewn:oewn-01882360-s wn:hypernym oewn:oewn-00646272-a .
 oewn:oewn-01882360-s wn:hypernym oewn:oewn-01016100-s .
@@ -2514,6 +2577,7 @@ oewn:oewn-02527322-a wn:hypernym oewn:oewn-02527874-s .
 oewn:oewn-02527322-a wn:hypernym oewn:oewn-01752802-a .
 oewn:oewn-02527322-a wn:hypernym oewn:oewn-02528909-s .
 oewn:oewn-01518910-a wn:hypernym oewn:oewn-01979885-a .
+oewn:oewn-01518910-a wn:hypernym oewn:tmp-hyper-2576 .
 oewn:oewn-01518910-a wn:hypernym oewn:oewn-01980375-s .
 oewn:oewn-00596949-s wn:hypernym oewn:oewn-02116958-a .
 oewn:oewn-00596949-s wn:hypernym oewn:oewn-02074467-s .
@@ -2524,6 +2588,7 @@ oewn:oewn-02118964-a wn:hypernym oewn:oewn-01980375-s .
 oewn:oewn-02118964-a wn:hypernym oewn:oewn-00569425-s .
 oewn:oewn-02763977-a wn:hypernym oewn:oewn-01636580-a .
 oewn:oewn-02763977-a wn:hypernym oewn:oewn-01403566-a .
+oewn:oewn-02107989-a wn:hypernym oewn:tmp-hyper-2587 .
 oewn:oewn-02107989-a wn:hypernym oewn:oewn-86659382-a .
 oewn:oewn-01372590-a wn:hypernym oewn:oewn-00634232-a .
 oewn:oewn-01372590-a wn:hypernym oewn:oewn-01884565-a .
@@ -2746,6 +2811,8 @@ oewn:oewn-02911952-a wn:hypernym oewn:oewn-01782757-a .
 oewn:oewn-02911952-a wn:hypernym oewn:oewn-02703361-a .
 oewn:oewn-02786741-a wn:hypernym oewn:oewn-02727475-a .
 oewn:oewn-02786741-a wn:hypernym oewn:oewn-02858779-a .
+oewn:tmp-hypo-2810 wn:hypernym oewn:oewn-01266123-s .
+oewn:tmp-hypo-2811 wn:hypernym oewn:oewn-01266123-s .
 oewn:oewn-01976772-s wn:hypernym oewn:oewn-00343988-v .
 oewn:oewn-01976772-s wn:hypernym oewn:oewn-01966104-a .
 oewn:oewn-01976772-s wn:hypernym oewn:oewn-01974305-a .
@@ -2802,6 +2869,7 @@ oewn:oewn-02915824-a wn:hypernym oewn:oewn-02960419-a .
 oewn:oewn-02915824-a wn:hypernym oewn:oewn-02677980-a .
 oewn:oewn-02915824-a wn:hypernym oewn:oewn-01683714-a .
 oewn:oewn-02915824-a wn:hypernym oewn:oewn-02908776-a .
+oewn:tmp-hypo-2868 wn:hypernym oewn:oewn-00921893-a .
 oewn:oewn-01586869-a wn:hypernym oewn:oewn-00929746-s .
 oewn:oewn-01586869-a wn:hypernym oewn:oewn-02846539-a .
 oewn:oewn-01645077-a wn:hypernym oewn:oewn-15149665-n .
@@ -2810,6 +2878,9 @@ oewn:oewn-00025079-s wn:hypernym oewn:oewn-00969666-a .
 oewn:oewn-01590750-a wn:hypernym oewn:oewn-00089736-a .
 oewn:oewn-01590750-a wn:hypernym oewn:oewn-01805299-a .
 oewn:oewn-01594522-a wn:hypernym oewn:oewn-01594891-s .
+oewn:tmp-hypo-2877 wn:hypernym oewn:oewn-01287636-s .
+oewn:tmp-hypo-2878 wn:hypernym oewn:oewn-01385012-a .
+oewn:tmp-hypo-2879 wn:hypernym oewn:oewn-01288468-s .
 oewn:oewn-01926330-a wn:hypernym oewn:oewn-01455372-a .
 oewn:oewn-01926330-a wn:hypernym oewn:oewn-01926766-s .
 oewn:oewn-01598231-a wn:hypernym oewn:oewn-00491099-a .
@@ -2862,6 +2933,7 @@ oewn:oewn-02222405-s wn:hypernym oewn:oewn-00507765-s .
 oewn:oewn-01656822-a wn:hypernym oewn:oewn-00184353-a .
 oewn:oewn-01656822-a wn:hypernym oewn:oewn-01065188-a .
 oewn:oewn-01656822-a wn:hypernym oewn:oewn-00019169-a .
+oewn:oewn-01656822-a wn:hypernym oewn:tmp-hyper-2932 .
 oewn:oewn-01709214-a wn:hypernym oewn:oewn-02525399-a .
 oewn:oewn-01709214-a wn:hypernym oewn:oewn-00433489-s .
 oewn:oewn-03025801-a wn:hypernym oewn:oewn-01840022-a .
@@ -3038,6 +3110,7 @@ oewn:oewn-01280536-s wn:hypernym oewn:oewn-01278672-a .
 oewn:oewn-00122938-s wn:hypernym oewn:oewn-01051000-a .
 oewn:oewn-01864034-a wn:hypernym oewn:oewn-02009323-a .
 oewn:oewn-01864034-a wn:hypernym oewn:oewn-02160400-s .
+oewn:oewn-01870073-a wn:hypernym oewn:tmp-hyper-3109 .
 oewn:oewn-01870073-a wn:hypernym oewn:oewn-01465804-s .
 oewn:oewn-01416084-a wn:hypernym oewn:oewn-01803966-a .
 oewn:oewn-01416084-a wn:hypernym oewn:oewn-01414308-a .
@@ -3120,8 +3193,12 @@ oewn:oewn-02883162-a wn:hypernym oewn:oewn-02823421-a .
 oewn:oewn-02883162-a wn:hypernym oewn:oewn-01110098-a .
 oewn:oewn-02011781-s wn:hypernym oewn:oewn-02010821-a .
 oewn:oewn-01979885-a wn:hypernym oewn:oewn-01980375-s .
+oewn:oewn-01979885-a wn:hypernym oewn:tmp-hyper-3192 .
 oewn:oewn-01979885-a wn:hypernym oewn:oewn-00569425-s .
+oewn:tmp-hypo-3194 wn:hypernym oewn:oewn-01980375-s .
+oewn:tmp-hypo-3195 wn:hypernym oewn:oewn-00569425-s .
 oewn:oewn-00006050-a wn:hypernym oewn:oewn-00518464-a .
+oewn:oewn-00006050-a wn:hypernym oewn:tmp-hyper-3197 .
 oewn:oewn-00006050-a wn:hypernym oewn:oewn-00919090-s .
 oewn:oewn-01982202-a wn:hypernym oewn:oewn-02588172-s .
 oewn:oewn-01982202-a wn:hypernym oewn:oewn-01982735-s .
@@ -3137,6 +3214,8 @@ oewn:oewn-00929746-s wn:hypernym oewn:oewn-00184353-a .
 oewn:oewn-00929746-s wn:hypernym oewn:oewn-00419717-s .
 oewn:oewn-01683076-s wn:hypernym oewn:oewn-01680620-s .
 oewn:oewn-00452640-a wn:hypernym oewn:oewn-02116958-a .
+oewn:oewn-02020854-s wn:hypernym oewn:tmp-hyper-3213 .
+oewn:oewn-02020854-s wn:hypernym oewn:tmp-hyper-3214 .
 oewn:oewn-02020854-s wn:hypernym oewn:oewn-01291519-a .
 oewn:oewn-02020854-s wn:hypernym oewn:oewn-02020293-a .
 oewn:oewn-02020854-s wn:hypernym oewn:oewn-02021236-s .
@@ -3149,6 +3228,7 @@ oewn:oewn-01988764-a wn:hypernym oewn:oewn-02477858-a .
 oewn:oewn-01585183-s wn:hypernym oewn:oewn-01584458-a .
 oewn:oewn-01585183-s wn:hypernym oewn:oewn-01584714-s .
 oewn:oewn-02132790-a wn:hypernym oewn:oewn-01039765-a .
+oewn:oewn-02132790-a wn:hypernym oewn:tmp-hyper-3227 .
 oewn:oewn-02132790-a wn:hypernym oewn:oewn-01110098-a .
 oewn:oewn-02000222-a wn:hypernym oewn:oewn-00017820-a .
 oewn:oewn-02000222-a wn:hypernym oewn:oewn-01884565-a .
@@ -3170,6 +3250,7 @@ oewn:oewn-00035481-s wn:hypernym oewn:oewn-01051000-a .
 oewn:oewn-00035481-s wn:hypernym oewn:oewn-01936201-s .
 oewn:oewn-00035481-s wn:hypernym oewn:oewn-00867880-a .
 oewn:oewn-00354202-s wn:hypernym oewn:oewn-01882769-s .
+oewn:oewn-00354202-s wn:hypernym oewn:tmp-hyper-3249 .
 oewn:oewn-02029118-a wn:hypernym oewn:oewn-02029807-s .
 oewn:oewn-02029118-a wn:hypernym oewn:oewn-02029380-s .
 oewn:oewn-02029118-a wn:hypernym oewn:oewn-02029380-s .
@@ -3229,6 +3310,7 @@ oewn:oewn-01497421-a wn:hypernym oewn:oewn-01974305-a .
 oewn:oewn-01497421-a wn:hypernym oewn:oewn-01762426-s .
 oewn:oewn-01497421-a wn:hypernym oewn:oewn-00678969-a .
 oewn:oewn-01859389-a wn:hypernym oewn:oewn-00796546-a .
+oewn:oewn-02804812-a wn:hypernym oewn:tmp-hyper-3309 .
 oewn:oewn-02100585-a wn:hypernym oewn:oewn-00704329-s .
 oewn:oewn-02100585-a wn:hypernym oewn:oewn-00531862-s .
 oewn:oewn-02100585-a wn:hypernym oewn:oewn-00339715-a .
@@ -3254,6 +3336,8 @@ oewn:oewn-01516947-s wn:hypernym oewn:oewn-01513206-a .
 oewn:oewn-01516947-s wn:hypernym oewn:oewn-01515272-s .
 oewn:oewn-02898882-a wn:hypernym oewn:oewn-02676508-a .
 oewn:oewn-02898882-a wn:hypernym oewn:oewn-01782757-a .
+oewn:tmp-hypo-3335 wn:hypernym oewn:oewn-02279294-a .
+oewn:tmp-hypo-3336 wn:hypernym oewn:oewn-02182456-a .
 oewn:oewn-02159631-a wn:hypernym oewn:oewn-02118964-a .
 oewn:oewn-02159631-a wn:hypernym oewn:oewn-00494722-a .
 oewn:oewn-00806609-a wn:hypernym oewn:oewn-01516947-s .
@@ -3282,6 +3366,7 @@ oewn:oewn-01533172-s wn:hypernym oewn:oewn-01531539-a .
 oewn:oewn-01533172-s wn:hypernym oewn:oewn-01465547-s .
 oewn:oewn-02078824-a wn:hypernym oewn:oewn-00505894-a .
 oewn:oewn-01485535-a wn:hypernym oewn:oewn-00571145-s .
+oewn:oewn-01241787-s wn:hypernym oewn:tmp-hyper-3365 .
 oewn:oewn-01241787-s wn:hypernym oewn:oewn-01568708-s .
 oewn:oewn-01558903-a wn:hypernym oewn:oewn-01501635-s .
 oewn:oewn-01558903-a wn:hypernym oewn:oewn-01499316-a .
@@ -3558,6 +3643,7 @@ oewn:oewn-00481923-a wn:hypernym oewn:oewn-01806732-a .
 oewn:oewn-00481923-a wn:hypernym oewn:oewn-01192929-s .
 oewn:oewn-00573907-a wn:hypernym oewn:oewn-00193091-a .
 oewn:oewn-00573907-a wn:hypernym oewn:oewn-02110076-a .
+oewn:oewn-02670653-v wn:hypernym oewn:tmp-hyper-3642 .
 oewn:oewn-02670653-v wn:hypernym oewn:oewn-06915685-n .
 oewn:oewn-00535672-s wn:hypernym oewn:oewn-00535112-a .
 oewn:oewn-00826017-a wn:hypernym oewn:oewn-02464331-a .
